@@ -5,10 +5,12 @@
 #
 # Profesor: Alvaro Enrique Ospina Sanjuan
 #
-#  Proyecto 2 
+#  Proyecto 2 - Cluster Kubernetes
 #
 # 1. Descripción de la actividad
+El proyecto consiste en desplegar una aplicación WordPress en un clúster Kubernetes de alta disponibilidad utilizando microk8s. Se configurará un clúster propio en máquinas virtuales en GCP, asegurando alta disponibilidad en las capas de aplicación, base de datos y almacenamiento. Esto incluye el uso de un servidor NFS para volúmenes compartidos y la configuración de un balanceador de cargas. Además, se implementará un dominio con HTTPS y se permitirá la escalabilidad del clúster
 #
+## 1.1. Que aspectos cumplió o desarrolló de la actividad propuesta por el profesor
 
 ## 1.2. Que aspectos NO cumplió o desarrolló de la actividad propuesta por el profesor 
 

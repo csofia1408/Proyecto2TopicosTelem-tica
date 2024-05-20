@@ -45,7 +45,6 @@ El proyecto consiste en desplegar una aplicación WordPress en un clúster Kuber
 # 3.Detalles del Desarrollo
 
     
-# 4. Descripción del ambiente de desarrollo y técnico: lenguaje de programación, librerias, paquetes, etc, con sus numeros de versiones.
 
 
 # 5. otra información que considere relevante para esta actividad.

@@ -8,11 +8,11 @@ spec:
   tls:
   - hosts:
 #change to your domain
-    - reto3.victorbotero.online
+    - victorbotero.online
     secretName: tls-secret
   rules:
 #change to your domain
-  - host: reto3.victorbotero.online
+  - host: victorbotero.online
     http:
       paths:
       - path: /

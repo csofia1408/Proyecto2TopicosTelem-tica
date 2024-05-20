@@ -71,6 +71,6 @@ El proyecto consiste en desplegar una aplicación WordPress en un clúster Kuber
 - Kubernetes Documentation. https://kubernetes.io/docs/home/.
 - Network File System. www.wikipedia.org/wiki/Network_File_System.
 - MySql Bitnami https://hub.docker.com/r/bitnami/mysql
-- Kubernetes Concepts. Kubernetes Concepts.
+- Kubernetes Concepts. https://kubernetes.io/docs/concepts/
 - MySQL High Availability. www.dev.mysql.com/doc/refman/8.0/en/high-availability.html.
 - Autoscaling in Kubernetes. www.github.com/kubernetes/autoscaler.

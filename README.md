@@ -47,7 +47,7 @@ El proyecto consiste en desplegar una aplicación WordPress en un clúster Kuber
     
 
 
-# 5. otra información que considere relevante para esta actividad.
+# 4. otra información que considere relevante para esta actividad.
 ### Glosario de Terminos
 - MicroK8s: Una distribución ligera y simplificada de Kubernetes, diseñada para desarrolladores, operadores y entusiastas de Kubernetes que desean ejecutar clústeres Kubernetes en sus propias máquinas.
 - Kubernetes (K8s): Plataforma de código abierto para la automatización de la implementación, el escalado y la operación de aplicaciones en contenedores. Kubernetes
@@ -66,7 +66,7 @@ El proyecto consiste en desplegar una aplicación WordPress en un clúster Kuber
 - Autoscaling: Capacidad de ajustar automáticamente el número de nodos o la cantidad de recursos disponibles para una aplicación en función de la carga actual, asegurando un rendimiento óptimo y utilización eficiente de recursos. Kubernetes Autoscaling
 
   
-# Referencias:
+# 5.Referencias:
 - MicroK8s.  www.microk8s.io
 - Kubernetes Documentation. https://kubernetes.io/docs/home/.
 - Network File System. www.wikipedia.org/wiki/Network_File_System.

@@ -43,8 +43,7 @@ El proyecto consiste en desplegar una aplicación WordPress en un clúster Kuber
 ![imagen](https://github.com/csofia1408/Proyecto2TopicosTelematica/assets/72955238/6624c8f9-49c5-4b8e-96ba-eac50fa73f67)
 
 # 3.Detalles del Desarrollo
-
-    
+  https://docs.google.com/document/d/1rKG2GZzAuo7JuGMMz0zrvdJ5uqNHa-VDUhyLTRCougs/edit?usp=sharing  
 
 
 # 4. otra información que considere relevante para esta actividad.
